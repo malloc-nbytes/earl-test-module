@@ -1,0 +1,11 @@
+module Main
+
+import "clap/clap.earl"; as clap
+
+fn main() {
+    println("Hello EARL!");
+    println(help(clap::parse));
+    return 0;
+}
+
+main();
