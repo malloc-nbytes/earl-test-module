@@ -1,6 +1,6 @@
 module Main
 
-import "clap/clap.earl"; as clap
+import "clap/clap.rl"; as clap
 
 fn main() {
     println("Hello EARL!");
