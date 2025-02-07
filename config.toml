@@ -6,6 +6,7 @@ github = "https://github.com/malloc-nbytes/earl-test-module.git"
 clap = "https://github.com/malloc-nbytes/earl-module-clap.git"
 rltimer = "https://github.com/malloc-nbytes/earl-module-timer.git"
 sstream = "https://github.com/malloc-nbytes/earl-module-sstream.git"
+bootstrap = "https://github.com/malloc-nbytes/earl-module-bootstrap.git"
 
 [config]
 prefix = "test-module"
